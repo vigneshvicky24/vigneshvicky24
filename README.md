@@ -71,7 +71,7 @@
 
 ### 🔥 GitHub Contribution Streak
 
-![GitHub Streak Badge](https://streak-stats.demolab.com/?user=vigneshvicky24&theme=vue&hide_border=true)
+![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
 
 ---
 ### 🔝 Top Contributed Repo

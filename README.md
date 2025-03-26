@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vicky-s-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://vigneshops.netlify.app/#" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="Portfolio" height="30" width="40" /></a>
+    <a href="https://vigneshops.netlify.app/#" target="blank"><img align="center" src="https://github.com/vigneshvicky24/vigneshvicky24/blob/main/logo.png" alt="Portfolio" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/vicky24h5bc/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="Portfolio" height="30" width="40" /></a>
 
 </p>
@@ -59,15 +59,23 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshvicky24&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshvicky24&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshvicky24&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshvicky24&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
+
+---
+### 🔝 Top Contributed Repo
+![GitHub Streak](https://streak-stats.demolab.com/?user=vigneshvicky24&theme=vue&hide_border=true)
 
 ---
 

@@ -75,7 +75,7 @@
 
 ---
 ### 🔝 Top Contributed Repo
-![GitHub Streak](https://streak-stats.demolab.com/?user=vigneshvicky24&theme=vue&hide_border=true)
+![GitHub Streak](https://github-contributor-stats.vercel.app/api?username=vigneshvicky24&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 

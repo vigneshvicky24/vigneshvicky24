@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Vignesh S</h1>
+<h1 align="center">Hey Everyone 👋, I'm Vignesh </h1>
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/21a854b4858cf3cf6549213d8a750302f74e517f39df4a77474229112887a6c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" alt="DevOps Banner">
@@ -28,6 +28,7 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/vicky-s-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://vigneshops.netlify.app/#" target="blank"><img align="center" src="https://github.com/vigneshvicky24/vigneshvicky24/blob/main/logo.png" alt="Portfolio" height="30" width="40" /></a>
@@ -36,8 +37,8 @@
 </p>
 
 ---
-
-<h3 align="left">Languages and Tools:</h3>
+*"<h3 align="left">Languages and Tools:</h3>"*
+<img src="https://camo.githubusercontent.com/7aaa7fa7ebc6c7c7fa51e2b69efff5fcd3d9604d5b095d2be646f375be2f2325/68747470733a2f2f696d6775722e636f6d2f526b6e4c4858512e706e67" alt="DevOps Banner">
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>

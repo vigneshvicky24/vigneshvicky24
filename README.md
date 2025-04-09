@@ -37,7 +37,7 @@
 </p>
 
 ---
-*"<h3 align="left">Languages and Tools:</h3>"*
+<h3 align="left">Languages and Tools:</h3>
 <img src="https://camo.githubusercontent.com/7aaa7fa7ebc6c7c7fa51e2b69efff5fcd3d9604d5b095d2be646f375be2f2325/68747470733a2f2f696d6775722e636f6d2f526b6e4c4858512e706e67" alt="DevOps Banner">
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>

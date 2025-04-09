@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Vignesh S</h1>
 
 <div align="center">
-  <img src="https://github.com/vigneshvicky24/vigneshvicky24/blob/main/Banner.png" alt="DevOps Banner">
+  <img src="https://github.com/vigneshvicky24/vigneshvicky24/git_banner.mp4" alt="DevOps Banner">
 </div>
 
 <h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector and in my free time I build and automate Cloud/DevOps solutions.</h3>

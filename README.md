@@ -59,9 +59,11 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
+---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshvicky24&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" />
+<p align="center">
+<img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akash-tk&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
+ <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-tk&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
 
 <p>

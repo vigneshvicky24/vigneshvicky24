@@ -80,14 +80,13 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vigneshvicky24&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
----
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshvicky24&theme=gruvbox-duo&border_color=30363d" alt="akash-tk" /></p>
----
+
 
 <!--
 <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%"/>
 -->
----
+
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🎤 Available for **Guest Sessions / Webinars**  

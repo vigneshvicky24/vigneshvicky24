@@ -33,8 +33,7 @@
   <a href="https://www.linkedin.com/in/vicky-s-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
     <a href="https://vigneshops.netlify.app/#" target="blank"><img align="center" src="https://github.com/vigneshvicky24/vigneshvicky24/blob/main/logo.png" alt="Portfolio" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/vicky24h5bc/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="Portfolio" height="30" width="40" /></a>
-
-   <a href="https://leetcode.com/u/vicky24octrk/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="Portfolio" height="30" width="40" /></a>
+   <a href="https://leetcode.com/u/vicky24octrk/" target="blank"><img align="center" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/83facdeba5b924cb3b1a" alt="Portfolio" height="30" width="40" /</a>
 
 </p>
 

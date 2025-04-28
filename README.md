@@ -34,6 +34,8 @@
     <a href="https://vigneshops.netlify.app/#" target="blank"><img align="center" src="https://github.com/vigneshvicky24/vigneshvicky24/blob/main/logo.png" alt="Portfolio" height="30" width="40" /></a>
   <a href="https://www.geeksforgeeks.org/user/vicky24h5bc/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" alt="Portfolio" height="30" width="40" /></a>
 
+   <a href="https://leetcode.com/u/vicky24octrk/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fleet-code&psig=AOvVaw3ELmkBLvUYqVTELAakO7vm&ust=1745941429754000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIj08eeI-4wDFQAAAAAdAAAAABAo" alt="Portfolio" height="30" width="40" /></a>
+
 </p>
 
 ---

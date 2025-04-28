@@ -59,13 +59,12 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
----
-
+<!--
 <p align="center">
 <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vigneshvicky24&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp&nbsp&nbsp
  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs?username=vigneshvicky24&title_color=FA8C00&icon_color=CC5160&text_color=949CA5&bg_color=00000000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false" alt="languages graph"/>
 </p>
-
+-->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshvicky24&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" />
 </p>
@@ -81,7 +80,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vigneshvicky24&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
+---
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" width="100%"/>
 
+---
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🎤 Available for **Guest Sessions / Webinars**  
@@ -89,4 +91,3 @@
 💼 Offering **DevOps Consulting / Mentorship**  
 📧 Let’s chat: [vicky24oct.vk@gmail.com](mailto:vicky24oct.vk@gmail.com)
 
-> *"Building scalable, automated, and secure cloud solutions. Let's transform the tech landscape together!"*

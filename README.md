@@ -4,8 +4,9 @@
   <img src="https://camo.githubusercontent.com/21a854b4858cf3cf6549213d8a750302f74e517f39df4a77474229112887a6c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f373732353831342f66696c652f6f726967696e616c2d61643334653561336435383761386139306236353836646536373731303232352e676966" alt="DevOps Banner">
 </div>
 
+<!--
 <h3 align="center">A passionate DevOps Engineer. I work in the Corporate IT Sector and in my free time I build and automate Cloud/DevOps solutions.</h3>
-
+-->
 <p align="center">
   <a href="https://github.com/vigneshvicky24">
     <img src="https://img.shields.io/github/followers/vigneshvicky24?label=Follow&style=social" />

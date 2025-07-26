@@ -91,8 +91,6 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations**  
-💼 Offering **DevOps Consulting / Mentorship**  
+🤝 Open to **Project Collaborations** 
 📧 Let’s chat: [vicky24oct.vk@gmail.com](mailto:vicky24oct.vk@gmail.com)
 
